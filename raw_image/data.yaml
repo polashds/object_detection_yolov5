@@ -1,0 +1,19 @@
+train: ../train/images
+val: ../val/images
+
+nc: 13
+names: [
+    'bananapeel',
+    'banana',
+    'cokecan',
+    'chipspack',
+    'chilli',
+    'lettuce',
+    'paperbag',
+    'plasticbag',
+    'plasticbottle',
+    'plasticcontainer',
+    'teabag',
+    'tissueroll',
+    'sweetpotato'
+]

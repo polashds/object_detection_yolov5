@@ -4,11 +4,11 @@ Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
 
 ## Workflows
 
-1. constants
-2. entity
-3. components
-4. pipelines
-5. app.py
+1. constants at firs update constant 
+2. entity then entity (arguments)
+3. components then components
+4. pipelines then pipelines
+5. app.py finally test in app.py
 
 
 # How to run?
